@@ -3,6 +3,12 @@ Download straight into overleaf using this link.
 https://www.overleaf.com/latex/templates/boston-college-poster-template/zgxfgpbfdjhj
 
 See the 'template.pdf' file for a preview of the template with the Boston College customization.
+<p align="center">
+  <a href="https://github.com/brunocassani/BC-Poster-Template/blob/main/template.pdf">
+    <img src="https://raw.githubusercontent.com/brunocassani/BC-Poster-Template/main/template_preview.png" alt="Preview of PDF" width="400">
+  </a>
+</p>
+
 
 # Gemini [![Build Status](https://github.com/anishathalye/gemini/workflows/CI/badge.svg)](https://github.com/anishathalye/gemini/actions?query=workflow%3ACI)
 
