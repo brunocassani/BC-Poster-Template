@@ -2,6 +2,8 @@ Download straight into overleaf using this link.
 
 https://www.overleaf.com/latex/templates/boston-college-poster-template/zgxfgpbfdjhj
 
+See the 'template.pdf' file for a preview of the template with the Boston College customization.
+
 # Gemini [![Build Status](https://github.com/anishathalye/gemini/workflows/CI/badge.svg)](https://github.com/anishathalye/gemini/actions?query=workflow%3ACI)
 
 Gemini is a modern LaTeX [beamerposter] theme.
