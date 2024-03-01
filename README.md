@@ -4,8 +4,8 @@ https://www.overleaf.com/latex/templates/boston-college-poster-template/zgxfgpbf
 
 See the 'template.pdf' file for a preview of the template with the Boston College customization.
 <p align="center">
-  <a href="https://github.com/brunocassani/BC-Poster-Template/blob/main/template.pdf">
-    <img src="https://raw.githubusercontent.com/brunocassani/BC-Poster-Template/main/template_preview.png" alt="Preview of PDF" width="400">
+  <a href="https://nbviewer.org/github/brunocassani/BC-Poster-Template/blob/main/template.pdf">
+    <img src="https://nbviewer.org/github/brunocassani/BC-Poster-Template/blob/main/template.pdf">
   </a>
 </p>
 
