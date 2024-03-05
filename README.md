@@ -92,8 +92,7 @@ investing a lot of time in implementing a new feature.
 
 ## License
 
-Copyright (c) 2018-2022 Anish Athalye. Released under the MIT License. See
-[LICENSE.md][license] for details.
+Copyright (c) 2018-2022 Anish Athalye. Released under the MIT License. Copyright CC 4.0 by Bruno Cassani. See [LICENSE.md][license] for details.
 
 [beamerposter]: https://github.com/deselaers/latex-beamerposter
 [Auriga]: https://github.com/anishathalye/auriga
